@@ -1,0 +1,18 @@
+body{
+    background: black;
+    text-align: center;
+}
+
+#clock{
+    color:white;
+    font-size: 40vh;
+    margin-top: 30vh;
+    font-weight: bold;
+}
+.clock{
+    width: 1000px;
+    height: 350px;
+    background: linear-gradient(#262b48, #362323, #1d2d1d, #000000, white);
+    border-radius: 70px;
+    margin-left: 200px;
+}
